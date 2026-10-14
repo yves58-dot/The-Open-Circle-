@@ -1,0 +1,6 @@
+{
+  "name": "The Open Circle",
+  "description": "A judgment-free, anonymous sanctuary for shared healing with peer guides, group campfires, and AI-powered safety.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
